@@ -11,5 +11,3 @@ The Data Structures implemented are -
    2.2) Circular Queues
    
    2.3) Double Ended Queues
-   
-   2.4) Priority Queues
